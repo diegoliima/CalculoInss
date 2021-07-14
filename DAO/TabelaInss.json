@@ -1,0 +1,49 @@
+﻿[
+	{
+		ano: 2011,
+		teto: 405.86,
+		faixasSalariais: [
+			{
+				salarioInicial: 0,
+				salarioFinal: 1106.90,
+				aliquota: 8
+			},
+			{
+				salarioInicial: 1106.91,
+				salarioFinal: 1844.83,
+				aliquota: 9
+			},
+			{
+				salarioInicial: 1844.84,
+				salarioFinal: 3689.66,
+				aliquota: 11
+			}
+		]
+	},
+	{
+		ano: 2012,
+		teto: 500,
+		faixasSalariais: [
+			{
+				salarioInicial: 0,
+				salarioFinal: 1000,
+				aliquota: 7
+			},
+			{
+				salarioInicial: 1000.01,
+				salarioFinal: 1500,
+				aliquota: 8
+			},
+			{
+				salarioInicial: 1500.01,
+				salarioFinal: 3000,
+				aliquota: 9
+			},
+			{
+				salarioInicial: 3000.01,
+				salarioFinal: 4000,
+				aliquota: 11
+			}
+		]
+	},
+]
